@@ -1,4 +1,4 @@
-# shashank-site
+# Shashank-site
 Hello. This is my personal portfolio.
 
 I am learning:
